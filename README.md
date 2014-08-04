@@ -8,7 +8,7 @@
 [Ներբերնել վերջնական ծրագիրը](https://github.com/bhovhannes/student-csharp-tasks/blob/master/lab02/lab02.exe)  
 Ձևափոխել վերջնական ծրագիրը այնպես, որ նկարված երեսը շարժի իր աչքերը մկնիկը շարժելուց և թարթի մկնիկի աջ կամ ձախ ստեղնը սեղմելուց:  
 Ցուցում - `MouseMove`, `MouseDown`, `MouseUp` իրադարձությունների ժամանակ դասի փոփոխականների մեջ մտապահել մկնիկի սեղմված կոճակը և կորդինատները ու նկարել արդեն օգտագործելով այդ փոփոխականները:  
-Արդյունքում պետք է ստացվի հետևյալ ծրագրի պես մի բան` [ներբերնել ծրագիրը](http://student.hovhannes.info/index.php?action=dl&file=Lab02_ex.exe):
+Արդյունքում պետք է ստացվի հետևյալ ծրագրի պես մի բան` [ներբերնել ծրագիրը](https://github.com/bhovhannes/student-csharp-tasks/blob/master/lab02/Lab02_ex.exe):
 
 ### Լաբ. 03: MouseMove, MouseDown, MouseUp իրադարձություններ
 [Ներբերնել առաջադրանքը](https://github.com/bhovhannes/student-csharp-tasks/blob/master/lab03/lab03.pdf)  
